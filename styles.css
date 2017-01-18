@@ -1,0 +1,44 @@
+.container {
+	background-color: #ebf0fa;
+	border: 1px solid lightgray;
+	font-family: Georgia, serif;
+	width: 302px;
+	padding: 10px;
+	box-shadow: 7px 7px 3px -2px #d0d0d0;
+}
+
+
+.information {
+	border: 1px solid lightgray;
+	font-size: 12px;
+	padding: 10px;
+}
+
+
+.fact {
+	font-style: italic;
+}
+
+
+.name {
+	color: #f93;
+	-webkit-text-stroke: 1px #f93;
+}
+
+
+.label {
+	font-weight: bold;
+}
+
+
+ul {
+	ist-style-type: none;
+	padding: 0;
+}
+
+
+img {
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
